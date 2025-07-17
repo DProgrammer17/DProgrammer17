@@ -8,10 +8,7 @@
 
 ## 📈 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DProgrammer17)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DProgrammer17)
-[![trophy](https://github-profile-trophy.vercel.app/?username=DProgrammer17)](https://github.com/DProgrammer17)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DProgrammer17)](https://git.io/streak-stats)
 
 ## 📫 Get in Touch
 
