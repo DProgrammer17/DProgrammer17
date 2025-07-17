@@ -47,4 +47,8 @@ Let's connect and collaborate on exciting projects! Reach out to me:
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and engage with my work. Let's code some magic together! ✨
 
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
