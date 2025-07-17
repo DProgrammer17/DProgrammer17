@@ -14,7 +14,7 @@
 
 Let's connect and collaborate on exciting projects! Reach out to me:
 
-- LinkedIn: [DProgrammer17](#)
+- LinkedIn: [EnochTheSion](https://www.linkedin.com/in/ebunoluwa-agunbiade-233463167/)
 - Email: enochagunbiade@gmail.com
 
 ## 🎉 Thank You
